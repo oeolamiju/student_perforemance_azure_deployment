@@ -1,0 +1,9 @@
+# Not needed at runtime; the app only uses app.py, src/, templates/ and artifacts/
+.git
+.github
+venv310
+notebook
+catboost_info
+logs
+**/__pycache__
+*.egg-info
